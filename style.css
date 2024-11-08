@@ -69,3 +69,19 @@ footer {
         width: 100%;
     }
 }
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Media Query for Mobile Devices */
+  @media (max-width: 768px) {
+    /* Adjust layout for smaller screens */
+    .hero-image {
+      /* Adjust image size or display differently */
+    }
+    .service-cards {
+      /* Adjust card layout, e.g., display them in a single column */
+    }
+  }
